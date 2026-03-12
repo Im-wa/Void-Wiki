@@ -7,8 +7,12 @@
     "title": "Server Rules",
     "content": "<ul><li><strong>No Griefing:</strong> Respect other players' builds.</li><li><strong>Scripting:</strong> Only approved client-side scripts are allowed.</li><li><strong>Roleplay:</strong> Stay in character during lore events!</li></ul>"
   },
-  "lore": {
+  "original-concept": {
     "title": "Original Concept",
     "content": "<p>The original concept was about an item that broke apart and all the civilazations took a piece and dont comunicate to each other anymore. The antagonist is trying to steal all the object parts to unlock `the void`. While the protagonists are trying to collect all the parts to regain the peace. There were 4 main civilzation before we endet the production and also one side civilzation. Main civilzations:Overworld civilization,Nether civilization,Underground civilization and End civilization.</p>"
+  },
+  "original-concept-end": {
+    "title": "Original Concept end",
+    "content": "<p>The original concept end is an fully democratic Civilization and the most advanced. they used the magic to their advantige to create devices that can easily use it for diffrent things and automate them</p>"
   }
 }
