@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Welcome to the SMP",
+    "content": "<p>Welcome to the official wiki for our Scripted SMP! Select an article on the left to learn about our lore, rules, and factions.</p><p>Season 1 is currently <strong>Active</strong>.</p>"
+  },
+  "rules": {
+    "title": "Server Rules",
+    "content": "<ul><li><strong>No Griefing:</strong> Respect other players' builds.</li><li><strong>Scripting:</strong> Only approved client-side scripts are allowed.</li><li><strong>Roleplay:</strong> Stay in character during lore events!</li></ul>"
+  },
+  "lore": {
+    "title": "The First Age",
+    "content": "<p>It all started when the Ancient Builders left the Overworld...</p><p>Now, three factions battle for control of the spawn plateau.</p>"
+  }
+}
