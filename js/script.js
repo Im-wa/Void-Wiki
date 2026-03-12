@@ -1,9 +1,7 @@
 // --- 1. Background Image Rotation ---
 // Put URLs or local paths to your Minecraft images here
 const images = [
-    'images/bg1.jpg', 
-    'images/bg2.jpg', 
-    'images/bg3.jpg'  
+    'images/bg1.jpg'  
 ];
 
 let currentImgIndex = 0;
