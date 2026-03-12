@@ -1,18 +1,34 @@
 {
   "home": {
-    "title": "Welcome to the SMP",
+    "title": "Info:Welcome to the SMP",
     "content": "<p>Welcome to the official wiki for our Scripted SMP studio! Select an article on the left to learn about our lore, rules, and more.</p><p>Current Project: <strong>Hero Concept</strong>.</p>"
   },
   "rules": {
-    "title": "Server Rules",
+    "title": "Info:Server Rules",
     "content": "<ul><li><strong>No Griefing:</strong> Respect other players' builds.</li><li><strong>Scripting:</strong> Only approved client-side scripts are allowed.</li><li><strong>Roleplay:</strong> Stay in character during lore events!</li></ul>"
   },
   "original-concept": {
-    "title": "Original Concept",
+    "title": "Project:Original Concept",
     "content": "<p>The original concept was about an item that broke apart and all the civilazations took a piece and dont comunicate to each other anymore.</p><p> The antagonist is trying to steal all the object parts to unlock `the void`. While the protagonists are trying to collect all the parts to regain the peace.</p><p> There were 4 main civilzation before we endet the production and also one side civilzation.</p><p> Main civilzations:</p><p>Overworld civilization,Nether civilization,Underground civilization and End civilization.</p>"
   },
   "original-concept-end": {
-    "title": "Original Concept end",
+    "title": "Project:Original Concept end",
     "content": "<p>The original concept end is an fully democratic Civilization and the most advanced.</p><p> they used the magic to their advantige to create devices that can easily use it for diffrent things and automate them</p>"
+   },
+  "original-concept-overworld": {
+    "title": "Project:Original Concept overworld",
+    "content": "<p>The overworld</p><p>The overworld was one of the main points of the story. It was known for the all knowing library.</p>"
+     },
+  "original-concept-underground": {
+    "title": "Project:Original Concept underground",
+    "content": "<p>The underground</p><p>A Comunistic civilization. Quite efficient</p>"
+  },
+  "Rune": {
+    "title": "Member:Rune",
+    "content": "<p>Rune is an Member of the void SMP.</p><p> Hes the one who created this Website.</p><p>Why? Because he can.(Yes The one writing this is Rune. Hello!)</p><p>He sometimes does random jobs and just hangs arround in the community.</p>"
+  },
+  "Pyro": {
+    "title": "Member:Pyro",
+    "content": "<p>Rune is an Member of the void SMP.</p><p> Hes the one who created this Website.</p><p>Why? Because he can.(Yes The one writing this is Rune. Hello!)</p><p>He sometimes does random jobs and just hangs arround in the community.</p>"
   }
 }
